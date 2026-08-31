@@ -9,6 +9,6 @@
 <br>
 <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqa2eokzf625iloavmga.png" alt="minha-logo">
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkdin">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=logo-insta>
+<img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" alt="logo-github">
+<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="logo-linkdin">
+<img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" alt"logo-watsp">
